@@ -1,0 +1,15 @@
+{
+  "name": "aes-256",
+  "version": "1.0.0",
+  "description": "AES-256 encryption and decryption using Nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AES",
+    "Nodejs"
+  ],
+  "author": "Pawan Sargar",
+  "license": "ISC"
+}

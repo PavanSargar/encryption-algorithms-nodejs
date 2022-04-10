@@ -1,0 +1,19 @@
+{
+  "name": "diffie-hellman",
+  "version": "1.0.0",
+  "description": "Diffie Hellman Key Exchange Algorithm Implementation.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Diffie",
+    "Hellman",
+    "Nodejs"
+  ],
+  "author": "Pawan Sargar",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
